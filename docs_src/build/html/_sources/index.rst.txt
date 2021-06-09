@@ -6,7 +6,13 @@
 Welcome to gradtutorial_test's documentation!
 =============================================
 
+Let's add some more text in here to describe the module.
+
+We can even add some math :math:`E=mc^2`
+
 .. toctree::
+    installation
+
    :maxdepth: 2
    :caption: Contents:
 
